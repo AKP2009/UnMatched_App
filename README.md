@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # appred
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# UnMatched_App
+>>>>>>> 5b0440af3d5f85cad59f0b71e62b10bde428fb6a
